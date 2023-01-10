@@ -1,0 +1,6 @@
+id: 1, nume: Bogdan, grup: 315, lucrare: Lab1, nota: 10
+id: 2, nume: Florin, grup: 234, lucrare: Lab1, nota: 1
+id: 3, nume: Coman, grup: 515, lucrare: Lab1, nota: 10
+id: 4, nume: Armando, grup: 782, lucrare: Lab1, nota: 8
+id: 5, nume: Dica, grup: 132, lucrare: Lab1, nota: 7
+id: 6, nume: Raul de Ghencea, grup: 678, lucrare: Lab1, nota: 4

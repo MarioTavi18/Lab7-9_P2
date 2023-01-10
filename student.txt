@@ -1,0 +1,3 @@
+id: 2, nume: Ana, grup: 315, lucrare: Lab2, nota: 9.0
+id: 3, nume: Ana, grup: 315, lucrare: Lab1, nota: 3.0
+id: 4, nume: EEE, grup: 333, lucrare: Lab1, nota: 8.0

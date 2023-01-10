@@ -1,0 +1,3 @@
+Nr: Lab1, Descriere: Suma, Deadline: Maine
+Nr: Lab2, Descriere: Produs, Deadline: Azi
+Nr: Lab3, Descriere: eee, Deadline: 333
